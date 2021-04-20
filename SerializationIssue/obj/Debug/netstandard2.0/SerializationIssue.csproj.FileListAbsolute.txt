@@ -1,0 +1,14 @@
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/bin/Debug/netstandard2.0/SerializationIssue.deps.json
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/bin/Debug/netstandard2.0/SerializationIssue.dll
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/bin/Debug/netstandard2.0/ref/SerializationIssue.dll
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/bin/Debug/netstandard2.0/SerializationIssue.pdb
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/SerializationIssue.csprojAssemblyReference.cache
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/SerializationIssue.AssemblyInfoInputs.cache
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/SerializationIssue.AssemblyInfo.cs
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/SerializationIssue.csproj.CoreCompileInputs.cache
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/SerializationIssue.dll
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/ref/SerializationIssue.dll
+/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/Debug/netstandard2.0/SerializationIssue.pdb

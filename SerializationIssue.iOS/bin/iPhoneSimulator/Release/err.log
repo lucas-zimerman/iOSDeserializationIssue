@@ -1,0 +1,44 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2021-04-20 14:36:31.153562-0300 SerializationIssue.iOS[61678:9830419] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=61678
+2021-04-20 14:36:31.153879-0300 SerializationIssue.iOS[61678:9830419] SecTaskCopyDebugDescription: SerializationIss[61678]/0#-1 LF=0
+2021-04-20 14:36:31.165318-0300 SerializationIssue.iOS[61678:9830419] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=61678
+2021-04-20 14:36:31.165620-0300 SerializationIssue.iOS[61678:9830419] SecTaskCopyDebugDescription: SerializationIss[61678]/0#-1 LF=0
+2021-04-20 14:36:31.291011-0300 SerializationIssue.iOS[61678:9830419]   Debug: Logging enabled with ConsoleDiagnosticLogger and min level: Debug
+2021-04-20 14:36:31.325311-0300 SerializationIssue.iOS[61678:9830419]   Debug: Using 'GzipBufferedRequestBodyHandler' body compression strategy with level Optimal.
+2021-04-20 14:36:31.355243-0300 SerializationIssue.iOS[61678:9830419]   Debug: Flushing existing cache during transport activation up to 00:00:01.
+2021-04-20 14:36:31.363259-0300 SerializationIssue.iOS[61678:9830419]   Debug: Flushing cached envelopes.
+2021-04-20 14:36:31.376825-0300 SerializationIssue.iOS[61678:9830419]   Debug: No cached file to process.
+2021-04-20 14:36:31.377061-0300 SerializationIssue.iOS[61678:9830471]   Debug: Flushing cached envelopes.
+2021-04-20 14:36:31.377444-0300 SerializationIssue.iOS[61678:9830471]   Debug: No cached file to process.
+2021-04-20 14:36:31.379765-0300 SerializationIssue.iOS[61678:9830419]   Debug: Initializing Hub for Dsn: 'https://5a193123a9b841bc8d8e42531e7242a1@o447951.ingest.sentry.io/5560112'.
+2021-04-20 14:36:31.380547-0300 SerializationIssue.iOS[61678:9830419]   Debug: Registering integration: 'AppDomainUnhandledExceptionIntegration'.
+2021-04-20 14:36:31.381089-0300 SerializationIssue.iOS[61678:9830419]   Debug: Registering integration: 'AppDomainProcessExitIntegration'.
+2021-04-20 14:36:31.381618-0300 SerializationIssue.iOS[61678:9830419]   Debug: Registering integration: 'TaskUnobservedTaskExceptionIntegration'.
+2021-04-20 14:36:31.382178-0300 SerializationIssue.iOS[61678:9830419]   Debug: Registering integration: 'SentryXamarinFormsIntegration'.
+2021-04-20 14:36:31.386787-0300 SerializationIssue.iOS[61678:9830419]   Debug: Registering integration: 'ContribSentrySdkIntegration'.
+2021-04-20 14:36:31.404970-0300 SerializationIssue.iOS[61678:9830419]   Debug: ContribSentry Initializing Session Service
+2021-04-20 14:36:31.405452-0300 SerializationIssue.iOS[61678:9830419]   Debug: ContribSentry Session Service Initialzed
+2021-04-20 14:36:31.405625-0300 SerializationIssue.iOS[61678:9830419]   Debug: ContribSentry Initializing Tracing Service
+2021-04-20 14:36:31.406428-0300 SerializationIssue.iOS[61678:9830419]   Debug: ContribSentry Tracing Service Initialzed
+2021-04-20 14:36:31.406583-0300 SerializationIssue.iOS[61678:9830419]   Debug: ContribSentry Initializing Cache Service
+2021-04-20 14:36:31.408133-0300 SerializationIssue.iOS[61678:9830419]   Debug: ContribSentry Cache Service Initialzed
+2021-04-20 14:36:31.408331-0300 SerializationIssue.iOS[61678:9830419]   Debug: ContribSentry Initialized
+2021-04-20 14:36:31.408532-0300 SerializationIssue.iOS[61678:9830419]   Debug: Registering integration: 'NativeIntegration'.
+2021-04-20 14:36:31.410400-0300 SerializationIssue.iOS[61678:9830470]   Debug: ContribSentry Checking for Stored Envelope Cache
+2021-04-20 14:36:31.413369-0300 SerializationIssue.iOS[61678:9830470]   Debug: ContribSentry Preparing to send Envelope Cache Data
+2021-04-20 14:36:31.413605-0300 SerializationIssue.iOS[61678:9830470]   Debug: ContribSentry Checking for Stored Event Cache
+2021-04-20 14:36:31.413852-0300 SerializationIssue.iOS[61678:9830470]   Debug: ContribSentry Preparing to send Envelope Cache Data
+2021-04-20 14:36:31.414098-0300 SerializationIssue.iOS[61678:9830470]   Debug: ContribSentry FileWorker is now sleeping
+2021-04-20 14:36:31.427471-0300 SerializationIssue.iOS[61678:9830419]   Debug: New scope pushed.
+2021-04-20 14:36:31.593486-0300 SerializationIssue.iOS[61678:9830419]    Info: Capturing event.
+2021-04-20 14:36:31.598682-0300 SerializationIssue.iOS[61678:9830419]   Debug: Running main event processor on: Event c0e352dee00f4f608f7a13c99ec9832e
+2021-04-20 14:36:31.603481-0300 SerializationIssue.iOS[61678:9830419]   Debug: No Exception and AttachStacktrace is off. No stack trace will be collected.
+2021-04-20 14:36:31.667119-0300 SerializationIssue.iOS[61678:9830419]   Debug: Envelope queued up.
+2021-04-20 14:36:31.681033-0300 SerializationIssue.iOS[61678:9830474]   Debug: Storing file /Users/desenvolvimento07/Library/Developer/CoreSimulator/Devices/07853558-E6ED-4437-BA56-A813F0B8DAA2/data/Containers/Data/Application/764BF50F-63FF-492C-A59C-248B45472AE0/Documents/Sentry/70A818B33F1E50BB3AE349F80F1ADAF8C6218DE0/1618940191_9218_c0e352dee00f4f608f7a13c99ec9832e_1577701737.envelope.
+2021-04-20 14:36:31.741888-0300 SerializationIssue.iOS[61678:9830474]   Debug: Envelope c0e352dee00f4f608f7a13c99ec9832e handed off to transport. #1 in queue.
+2021-04-20 14:36:31.792061-0300 SerializationIssue.iOS[61678:9830473]   Debug: Flushing cached envelopes.
+2021-04-20 14:36:31.818696-0300 SerializationIssue.iOS[61678:9830473]   Debug: Reading cached envelope: /Users/desenvolvimento07/Library/Developer/CoreSimulator/Devices/07853558-E6ED-4437-BA56-A813F0B8DAA2/data/Containers/Data/Application/764BF50F-63FF-492C-A59C-248B45472AE0/Documents/Sentry/70A818B33F1E50BB3AE349F80F1ADAF8C6218DE0/__processing/1618940191_9218_c0e352dee00f4f608f7a13c99ec9832e_1577701737.envelope
+2021-04-20 14:36:31.968465-0300 SerializationIssue.iOS[61678:9830478]   Debug: Sending cached envelope: c0e352dee00f4f608f7a13c99ec9832e
+2021-04-20 14:36:32.672488-0300 SerializationIssue.iOS[61678:9830473]   Debug: Envelope c0e352dee00f4f608f7a13c99ec9832e successfully received by Sentry.
+2021-04-20 14:36:32.673191-0300 SerializationIssue.iOS[61678:9830473]   Debug: Successfully sent cached envelope: c0e352dee00f4f608f7a13c99ec9832e
+2021-04-20 14:36:32.673681-0300 SerializationIssue.iOS[61678:9830473]   Debug: No cached file to process.

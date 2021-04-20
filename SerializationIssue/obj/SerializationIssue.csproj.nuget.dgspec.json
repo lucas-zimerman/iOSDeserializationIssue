@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/SerializationIssue.csproj": {}
+  },
+  "projects": {
+    "/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/SerializationIssue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/SerializationIssue.csproj",
+        "projectName": "SerializationIssue",
+        "projectPath": "/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/SerializationIssue.csproj",
+        "packagesPath": "/Users/desenvolvimento07/.nuget/packages/",
+        "outputPath": "/Users/desenvolvimento07/projects/SerializationIssue/SerializationIssue/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/desenvolvimento07/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "CardsView": {
+              "target": "Package",
+              "version": "[2.7.2, )"
+            },
+            "Com.OneSignal": {
+              "target": "Package",
+              "version": "[3.10.4, )"
+            },
+            "ContribSentry": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            },
+            "Microcharts.Forms": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
+            },
+            "Prism.DryIoc.Forms": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Prism.Plugin.Popups": {
+              "target": "Package",
+              "version": "[8.0.31-beta, )"
+            },
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.0.0.11, )"
+            },
+            "Sentry": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Sentry.Xamarin.Forms": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.80.2, )"
+            },
+            "SkiaSharp.Views.Forms": {
+              "target": "Package",
+              "version": "[2.80.2, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Xamarin.Controls.SignaturePad.Forms": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.FFImageLoading.Svg.Forms": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.FFImageLoading.Transformations": {
+              "target": "Package",
+              "version": "[2.4.11.982, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Forms.Skeleton": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "sharpcompress": {
+              "target": "Package",
+              "version": "[0.28.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

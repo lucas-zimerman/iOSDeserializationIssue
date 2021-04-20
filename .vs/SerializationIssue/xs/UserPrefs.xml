@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{1714B378-3959-4704-8A8F-982A70D0213D}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SerializationIssue/SerializationIssue.csproj">
+    <Files>
+      <File FileName="SerializationIssue.iOS/AppDelegate.cs" Line="3" Column="1" />
+      <File FileName="SerializationIssue/MainPage.xaml.cs" Line="15" Column="10" />
+      <File FileName="SerializationIssue.iOS/Info.plist" />
+      <File FileName="SerializationIssue/App.xaml.cs" />
+      <File FileName="SerializationIssue/SerializationIssue.csproj" Line="25" Column="1" />
+      <File FileName="SerializationIssue.iOS/SerializationIssue.iOS.csproj" Line="127" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SerializationIssue" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SerializationIssue.Android PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SerializationIssue.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.07853558-E6ED-4437-BA56-A813F0B8DAA2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
